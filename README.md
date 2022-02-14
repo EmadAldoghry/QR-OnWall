@@ -4,6 +4,10 @@ this Code uses each of the follwing packages:
 - [Ifcopenshell](https://github.com/IfcOpenShell/IfcOpenShell)
 - [python-qrcode](https://github.com/lincolnloop/python-qrcode)
 
+## Introduction
+This code was a part of my Design Driven Project at the construction robotic master program at the RWTH Aachen university. 
+
+
 ## Project Description
 The IFC file format can be used to describe building and construction data. The format is commonly used for Building Information Modelling.
 
@@ -41,6 +45,7 @@ This code searchs in the IFC file on walls and gives every wall a QR-code with t
 
 ## Credits
 credits go to mr `Thomas Krijnen` the developer of the [Ifcopenshell](https://github.com/IfcOpenShell/IfcOpenShell) library
+
 also to mr `Lincoln Loop`the developer of the 
 [python-qrcode](https://github.com/lincolnloop/python-qrcode) library
 
